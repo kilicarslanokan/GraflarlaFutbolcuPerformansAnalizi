@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Veri setini oku
-df = pd.read_excel(r"C:\Users\okank\Desktop\database.xlsx")
+df = pd.read_excel(r"C:\Users\okank\Desktop\önemli\DERSLER\3.2\Ağ Programlama\database.xlsx")
 
 # Scatter plot oluştur
 plt.figure(figsize=(10, 6))
